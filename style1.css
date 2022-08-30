@@ -1,0 +1,81 @@
+*{
+	margin-top: 1000;box-sizing: content-box;
+	
+	background-color: #D3D3D3;
+	
+}
+h1{
+	font-family: "Times New Roman", sans-serif;
+	font-size: 50px;
+  	font-style: italic;
+	color: black;
+	text-align: center;
+	padding-bottom: 0px;
+	padding-top: 0px;
+	}
+p{
+	 line-height: 27px;
+  	font-size: 35px;
+  	text-align: center;
+  	padding-top: 0px;
+  	padding-bottom: 0px;
+  	font-style: italic;
+  	
+}
+img{
+	 width: 15%;
+    height: 40vh !important;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h2{
+	font-family: "Times New Roman", sans-serif;
+	font-size: 40px;
+	color: black;
+	text-align: center;
+}
+
+h6{
+
+	font-family: "Times New Roman", sans-serif;
+	font-size: 20px;
+	color: black;
+	text-align: left;
+	padding-left: 500px;
+	padding-top: 20px;
+	padding-right: 100px;
+	padding-bottom: 20px;
+}
+.card img{
+	 width: 5%;
+    height: 8vh !important;
+    float: right;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 0px;
+    padding-right: 500px;
+  }
+  h3{
+  	background-color: #008080;
+  	padding-top: 50px;
+  	padding-bottom: 50px;
+  	margin-bottom: 0px;
+  	margin-left: 0px;
+  	text-align: center;
+
+  }
+  	button{
+  	float: right; 
+ 	border: 0px;
+  	background: #008080;;
+	position: right;
+  	color: #fff;
+  	margin: 0px 660px;
+ 	 padding: 20px 50px;
+  	border-radius: 20px;
+ 	 cursor: pointer;
+  	transition: 0.5s;
+  	margin-bottom: 50px;
+
+  }
